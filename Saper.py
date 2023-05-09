@@ -315,3 +315,4 @@ if __name__ == "__main__":
         except:
             printRed("Podano nieprawidłowe dane\n")
             waitForInput()
+#Python to zbrodnia przeciw ludzkości i logicznemu myśleniu
